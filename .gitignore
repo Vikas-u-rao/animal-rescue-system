@@ -1,0 +1,46 @@
+# === Project Planning & AI Instructions (Internal Only) ===
+project_plan.md
+LLM_INSTRUCTIONS.md
+
+# === Java Build Output ===
+target/
+*.class
+*.jar
+*.war
+*.ear
+
+# === Maven ===
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# === IDE Files ===
+# IntelliJ IDEA
+.idea/
+*.iml
+*.iws
+*.ipr
+out/
+
+# Eclipse
+.classpath
+.project
+.settings/
+bin/
+
+# VS Code
+.vscode/
+
+# === OS Generated ===
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# === Logs ===
+*.log
+
+# === Environment / Secrets ===
+.env
+*.env
