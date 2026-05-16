@@ -1,6 +1,6 @@
-# === Project Planning & AI Instructions (Internal Only) ===
-project_plan.md
-LLM_INSTRUCTIONS.md
+# === Project Documentation ===
+*.md
+!README.md
 
 # === Java Build Output ===
 target/
