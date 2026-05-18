@@ -50,5 +50,5 @@ A responsive, lightweight web application designed to bridge the gap between cit
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/animal-rescue-system.git
+   git clone https://github.com/Vikas-u-rao/animal-rescue-system.git
    cd animal-rescue-system
